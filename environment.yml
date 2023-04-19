@@ -1,0 +1,12 @@
+name: datafusion
+
+channels:
+  - conda-forge
+
+dependencies:
+  - black
+  - ipykernel
+  - matplotlib
+  - numpy
+  - pandas
+  - pre-commit

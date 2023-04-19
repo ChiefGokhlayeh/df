@@ -1,0 +1,4 @@
+{
+  "ltex.language": "en",
+  "python.formatting.provider": "black"
+}
