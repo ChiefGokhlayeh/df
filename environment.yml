@@ -7,6 +7,7 @@ dependencies:
   - black
   - ipykernel
   - matplotlib
+  - nbstripout
   - numpy
   - pandas
   - pre-commit
